@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gt732" alt="gt732" /></a> </p>
 
-- 🔭 I’m currently working on [FortiGPT](https://github.com/gt732/FortiGPT)
-
-- 👯 I’m looking to collaborate on **Any network automation project**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/geury-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geury-torres" height="30" width="40" /></a>
